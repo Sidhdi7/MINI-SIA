@@ -17,3 +17,9 @@ Overall, Mini SIA serves as a focused prototype for studying human AI interactio
 ## 🔭 Ongoing Work
 
 Mini SIA is currently being expanded further by adding additional capabilities such as deeper context awareness, richer planning and scheduling logic, enhanced wellbeing aware assistance, and broader interaction modes, while maintaining the same human centered and trust first design principles.
+
+## Setup
+1. Clone the repository
+2. Create a `.env` file with your OpenAI API key
+3. Install dependencies using `pip install -r requirements.txt`
+4. Run `python main.py`
