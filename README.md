@@ -1,4 +1,4 @@
-# 🌸 Mini-SIA — A Human Centered Agentic Assistant
+# 🌸 Mini-SIA: A Human Centered Agentic Assistant
 
 Mini SIA is a human centered, agentic AI assistant designed to explore how intelligent systems should interact with people in everyday settings. Instead of functioning as a command driven chatbot, Mini SIA behaves like a considerate personal agent that adapts to user intent, energy, and emotional cues while remaining transparent, explainable, and fully user controlled.
 
